@@ -1,6 +1,6 @@
 # Curso Programador Full-Stack SENAI-SP
 
-# Projeto Angular CLI
+## Projeto Angular CLI
 
 ## : Descrição
 Nesta etapa, será desenvolvido o desafio 1:
