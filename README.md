@@ -1,8 +1,8 @@
 # Curso Programador Full-Stack SENAI-SP
 
-## Projeto Angular CLI
+### Projeto Angular CLI
 
-## : Descrição
+### : Descrição
 Nesta etapa, será desenvolvido o desafio 1:
 * Desenvolver o Front-End do site utilizando a estrutura do framework
 Angular e a biblioteca Material.
